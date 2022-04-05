@@ -36,4 +36,4 @@ Beyond the problem statement, show us the consideration you have given to some o
 
 ## Submission
 
-Please email a link to your fork of this repository, or a zip of your solution to `rose.pollock@inquisitive.com`.
+Please fork our repository, build your solution and email a link to `rose.pollock@inquisitive.com`.
