@@ -111,8 +111,7 @@ const Form = () => {
                 <label className='label' htmlFor='password'>
                     Password
                 </label>
-                <input className='error'
-                       type='password'
+                <input type='password'
                        id='password'
                        name='password'
                        value={formData.password}
@@ -149,7 +148,7 @@ const Form = () => {
                 {errors.colour && <span id='error-colour' className='error-message'>{errors.colour}</span>}
             </p>
             <p className={errors.animal ? 'error' : ''}>
-                <span className="label">
+                <span className='label'>
                     Animal
                 </span>
 
